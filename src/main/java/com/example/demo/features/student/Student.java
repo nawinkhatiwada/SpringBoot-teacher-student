@@ -17,8 +17,6 @@ import java.util.Set;
 
 @Entity
 @Data
-@EqualsAndHashCode
-@ToString
 @AllArgsConstructor
 @NoArgsConstructor
 public class Student {
